@@ -1,4 +1,55 @@
 {
-    "items" : [],
+    "items" : [
+        {
+            "id": 1,
+            "name": "Notebook",
+            "price": 50
+        },
+        {
+            "id": 2,
+            "name": "Pencil",
+            "price": 7
+        },
+        {
+            "id": 3,
+            "name": "Pen",
+            "price": 10
+        },
+        {
+            "id": 4,
+            "name": "Eraser",
+            "price": 3
+        },
+        {
+            "id": 5,
+            "name": "Ruler",
+            "price": 5
+        },
+        {
+            "id": 6,
+            "name": "Stapler",
+            "price": 15
+        },
+        {
+            "id": 7,
+            "name": "Highlighter",
+            "price": 8
+        },
+        {
+            "id": 8,
+            "name": "Scissors",
+            "price": 12
+        },
+        {
+            "id": 9,
+            "name": "Glue Stick",
+            "price": 6
+        },
+        {
+            "id": 10,
+            "name": "Binder Clips",
+            "price": 4
+        }
+    ],
     "bills": []
 }
